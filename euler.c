@@ -1,3 +1,5 @@
+#include euler.h
+
 int problem_1() {
   int n;
   int ret = 0;
